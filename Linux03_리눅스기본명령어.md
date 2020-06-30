@@ -1,5 +1,5 @@
 <h1>Linux 명령어</h1>
-![블로그 3-4](https://user-images.githubusercontent.com/63223374/86100106-5c810500-baf3-11ea-8767-d95b44ae74f8.png)
+https://user-images.githubusercontent.com/63223374/86100189-7a4e6a00-baf3-11ea-86ed-7819528eb820.png
 <h3>기본 명령어
 
 ```
