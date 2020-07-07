@@ -165,6 +165,9 @@
 **Sample application을 Deploy해보고 확인해본다.**
 
 https://tomcat.apache.org/tomcat-9.0-doc/appdev/sample/
+이거를 설치하면 유저/Downloads 아래에 sample.war파일이 생성되었음을 알 수 있다.
+
+이 war 파일을 /var/lib/tomcat9/webapps에 cp한다.
 
 ![그림11](https://user-images.githubusercontent.com/63223374/86776208-fcf69c80-c092-11ea-8290-650679b0e719.png)
 
